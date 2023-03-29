@@ -40,7 +40,7 @@ This homework is to propose an innovative project and describe the key features,
 3. 冰鎮效能
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
+![](https://github.com/xxhuang0913/MCU-project/blob/main/images/refrobo.jpg?raw=true)
 
 ---
 ### 參考範例
