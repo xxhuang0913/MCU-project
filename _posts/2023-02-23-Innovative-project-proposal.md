@@ -21,7 +21,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ---
 ## 冰箱機器人
-![](https://github.com/rkuo2023/MCU-project/blob/main/images/ESP32_RoboCar.jpg?raw=true)
+
 
 ### 應用功能說明
 根據需求者所在位置，冰箱機器人抵達並提供零食飲料或任何存放在冰箱裡的東西
