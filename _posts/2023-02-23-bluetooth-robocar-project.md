@@ -168,6 +168,9 @@ void loop() {
 ### 系統方塊圖
 ![](https://github.com/xxhuang0913/MCU-project/blob/main/images/4651001F-0A18-44CA-BDEE-C4E343B980B0.jpg)
 
+
+影片連結:
+https://www.youtube.com/embed/T7w7vh_h2Qg
 <br>
 <br>
 
