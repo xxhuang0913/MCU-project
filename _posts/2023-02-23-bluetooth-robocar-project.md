@@ -166,7 +166,7 @@ void loop() {
 ![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
 
 ### 系統方塊圖
-![]([https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true])
+![](https://github.com/xxhuang0913/MCU-project/blob/main/images/4651001F-0A18-44CA-BDEE-C4E343B980B0.jpg)
 
 <br>
 <br>
